@@ -1,0 +1,31 @@
+C:\Dev\Juris Scrum\Core\Branches\v2.7.1\Professional Services\JurisUtilityBase\JurisUtilityBase\bin\Debug\JurisUtilityBase.exe.config
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\C1.C1Report.4.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\C1.Win.C1Input.4.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\C1.Win.C1Report.4.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\Gizmox.Extensions.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\Ionic.Zlib.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\JurisAuthenticator.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\JurisDBO21.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\JurisIDef21.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\JurisStr21.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\JurisStr221.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\JurisSVR21.dll
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.PrinterDialog.resources
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.ReportDisplay.resources
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.Properties.Resources.resources
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.SplashScreen.resources
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.CopyComplete
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\IVU Tax Calculator.exe.config
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\IVU Tax Calculator.exe.manifest
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\IVU Tax Calculator.application
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\IVU Tax Calculator.exe
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\bin\Debug\IVU Tax Calculator.pdb
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\IVU Tax Calculator.exe.manifest
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\IVU Tax Calculator.application
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\IVU Tax Calculator.exe
+D:\Utilities\IVU Tax Calculator\JurisUtilityBase\obj\Debug\IVU Tax Calculator.pdb
